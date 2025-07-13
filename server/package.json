@@ -1,6 +1,6 @@
 // 📁 server/package.json
 {
-  "name": "prince-uno-server",
+  "name": "server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
